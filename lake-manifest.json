@@ -1,0 +1,15 @@
+{"version": 4,
+ "packagesDir": "lake-packages",
+ "packages":
+ [{"git":
+   {"url": "https://github.com/leanprover-community/lean4game.git",
+    "subDir?": "server",
+    "rev": "ab0cb5ba3da812762a40fb2f0193d131cf0dad55",
+    "name": "GameServer",
+    "inputRev?": "main"}},
+  {"git":
+   {"url": "https://github.com/leanprover/std4",
+    "subDir?": null,
+    "rev": "44a92d84c31a88b9af9329a441890ad449d8cd5f",
+    "name": "std",
+    "inputRev?": "44a92d84c31a88b9af9329a441890ad449d8cd5f"}}]}
